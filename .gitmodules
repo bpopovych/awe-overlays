@@ -1,3 +1,6 @@
 [submodule "xen"]
 	path = xen
 	url = git@github.com:bpopovych/awe-xen.git
+[submodule "firefox"]
+	path = firefox
+	url = git@github.com:bpopovych/awe-firefox.git
