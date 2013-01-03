@@ -2,6 +2,18 @@
 <!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
 <repositories xmlns="" version="1.0">
 	<repo quality="experimental" status="unofficial">
+		<name>awe-eclipse</name>
+		<description>Experimental ebuilds for Eclipse SDK</description>
+		<homepage>https://github.com/bpopovych/awe-eclipse</homepage>
+		<owner>
+			<email>bohdan@popovych.info</email>
+			<name>Bohdan Popovych</name>
+		</owner>
+		<source type="git">git://github.com/bpopovych/awe-eclipse.git</source>
+		<source type="git">https://github.com/bpopovych/awe-eclipse.git</source>
+		<feed>https://github.com/bpopovych/awe-eclipse/commits/master.atom</feed>
+	</repo>
+	<repo quality="experimental" status="unofficial">
 		<name>awe-firefox</name>
 		<description>Experimental ebuilds for Firefox web browser</description>
 		<homepage>https://github.com/bpopovych/awe-firefox</homepage>
