@@ -4,3 +4,6 @@
 [submodule "firefox"]
 	path = firefox
 	url = git@github.com:bpopovych/awe-firefox.git
+[submodule "eclipse"]
+	path = eclipse
+	url = git@github.com:bpopovych/awe-eclipse.git
