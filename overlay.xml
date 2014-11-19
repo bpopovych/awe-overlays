@@ -37,4 +37,16 @@
 		<source type="git">https://github.com/bpopovych/awe-xen.git</source>
 		<feed>https://github.com/bpopovych/awe-xen/commits/master.atom</feed>
 	</repo>
+	<repo quality="experimental" status="unofficial">
+		<name>awe-chrome</name>
+		<description>Experimental ebuilds for Google Chrome web browser</description>
+		<homepage>https://github.com/bpopovych/awe-chrome</homepage>
+		<owner>
+			<email>bohdan@popovych.info</email>
+			<name>Bohdan Popovych</name>
+		</owner>
+		<source type="git">git://github.com/bpopovych/awe-chrome.git</source>
+		<source type="git">https://github.com/bpopovych/awe-chrome.git</source>
+		<feed>https://github.com/bpopovych/awe-chrome/commits/master.atom</feed>
+	</repo>
 </repositories>

@@ -7,3 +7,6 @@
 [submodule "eclipse"]
 	path = eclipse
 	url = git@github.com:bpopovych/awe-eclipse.git
+[submodule "chrome"]
+	path = chrome
+	url = git@github.com:bpopovych/awe-chrome.git
