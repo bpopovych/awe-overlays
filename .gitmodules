@@ -10,3 +10,9 @@
 [submodule "chrome"]
 	path = chrome
 	url = git@github.com:bpopovych/awe-chrome.git
+[submodule "sweethome"]
+	path = sweethome
+	url = git@github.com:bpopovych/awe-sweethome.git
+[submodule "office"]
+	path = office
+	url = git@github.com:bpopovych/awe-office.git

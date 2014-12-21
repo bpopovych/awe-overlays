@@ -49,4 +49,28 @@
 		<source type="git">https://github.com/bpopovych/awe-chrome.git</source>
 		<feed>https://github.com/bpopovych/awe-chrome/commits/master.atom</feed>
 	</repo>
+	<repo quality="experimental" status="unofficial">
+		<name>awe-sweethome</name>
+		<description>Experimental ebuilds for home visualization tools</description>
+		<homepage>https://github.com/bpopovych/awe-sweethome</homepage>
+		<owner>
+			<email>bohdan@popovych.info</email>
+			<name>Bohdan Popovych</name>
+		</owner>
+		<source type="git">git://github.com/bpopovych/awe-sweethome.git</source>
+		<source type="git">https://github.com/bpopovych/awe-sweethome.git</source>
+		<feed>https://github.com/bpopovych/awe-sweethome/commits/master.atom</feed>
+	</repo>
+	<repo quality="experimental" status="unofficial">
+		<name>awe-office</name>
+		<description>Experimental ebuilds for office packages</description>
+		<homepage>https://github.com/bpopovych/awe-office</homepage>
+		<owner>
+			<email>bohdan@popovych.info</email>
+			<name>Bohdan Popovych</name>
+		</owner>
+		<source type="git">git://github.com/bpopovych/awe-office.git</source>
+		<source type="git">https://github.com/bpopovych/awe-office.git</source>
+		<feed>https://github.com/bpopovych/awe-office/commits/master.atom</feed>
+	</repo>
 </repositories>
