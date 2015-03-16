@@ -73,4 +73,16 @@
 		<source type="git">https://github.com/bpopovych/awe-office.git</source>
 		<feed>https://github.com/bpopovych/awe-office/commits/master.atom</feed>
 	</repo>
+	<repo quality="experimental" status="unofficial">
+		<name>awe-redmine</name>
+		<description>Experimental ebuilds for web-based project management and issue tracking tool</description>
+		<homepage>https://github.com/bpopovych/awe-redmine</homepage>
+		<owner>
+			<email>bohdan@popovych.info</email>
+			<name>Bohdan Popovych</name>
+		</owner>
+		<source type="git">git://github.com/bpopovych/awe-redmine.git</source>
+		<source type="git">https://github.com/bpopovych/awe-redmine.git</source>
+		<feed>https://github.com/bpopovych/awe-redmine/commits/master.atom</feed>
+	</repo>
 </repositories>
